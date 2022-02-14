@@ -45,4 +45,4 @@
 
 
 **Currently Learning:**
-JavaScript Algorithms and Data Structures, React, MySQL
+JavaScript Data Structures and Algorithms, React, Express, Node, MySQL
