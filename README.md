@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Noah Ouna 😄</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Noah Ouna 😄</h1>
 <img src="banner.png" align="center">
 
 <h2 align='center'>INTRO</h2>
