@@ -29,8 +29,8 @@
 <h3 align='center'>DATABASES</h3>
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  alt="PostgreSQL Badge">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
+    <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL Badge">
+    
 </p>
 
 
@@ -45,4 +45,4 @@
 
 
 **Currently Learning:**
-JavaScript Data Structures and Algorithms, React, Express, Node, MySQL
+JavaScript Data Structures and Algorithms, React, Express, Node, and MySQL
