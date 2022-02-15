@@ -3,7 +3,7 @@
 
 <h2 align='center'>INTRO</h2>
 
-<h3 align="center">I am a Full Stack Software Engineer who enjoys problem solving, discovering new features and learning new technologies. I love building products that is not only limited in improving people's lives, but also show the ability to maintain and scale applications. </h3>
+<h3 align="center">I am a new graduate who enjoys problem solving, discovering new features and learning new technologies. I love building products that improve people's lives. </h3>
 
 
 <h2 align='center'>CONNECT</h2>
