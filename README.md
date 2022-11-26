@@ -47,4 +47,4 @@
 
 
 **Currently Learning:**
-Data Structures and Algorithms, React, Redux, MySQL, and Application Security
+Backend Development, Application Security, and Operating Systems
